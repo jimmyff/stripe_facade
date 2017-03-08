@@ -1,0 +1,10 @@
+author: "Tobe O <thosakwe@gmail.com>"
+description: "Dart JS wrappers for Stripe and Stripe Checkout."
+environment:
+  sdk: ">=1.19.0"
+homepage: "https://github.com/thosakwe/stripe_facade.git"
+name: "stripe_facade"
+version: "1.0.0"
+dependencies:
+  func: "^0.1.0"
+  js: "^0.6.1"
